@@ -12,4 +12,4 @@
 
 # Запуск
 
-* Вводим в Terminal: python "Email Bomber.py"
+* Вводим в Terminal: python "Email Bomber by HZF"
