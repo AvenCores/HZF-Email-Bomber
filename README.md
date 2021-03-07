@@ -10,6 +10,11 @@
 * Запускаем Terminal
 * Переходим в корень с бомбером
 
+# Запуск
+
+* Вводим в Terminal: python "Email Bomber by HZF"
+
+
 # Важная информация
 * Download Manager работает только на Windows
 
@@ -17,8 +22,3 @@
 
 # Telegram Channel
 * У бомбера есть свой Telegram-канал! @hzfnews
-
-
-# Запуск
-
-* Вводим в Terminal: python "Email Bomber by HZF"
