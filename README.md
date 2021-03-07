@@ -12,7 +12,7 @@
 
 # Запуск
 
-* Вводим в Terminal: python "Email Bomber by HZF"
+* Вводим в Terminal: python "Email Bomber by HZF.py"
 
 
 # Важная информация
