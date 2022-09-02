@@ -1,8 +1,16 @@
 import smtplib
 import time
-import os
+from os import system
 
-os.system("clear")
+def clear():
+	if platform == "linux" or platform == "linux2" or platform == "unix":
+		system("clear")
+	elif platform == "win32":
+		system("cls")
+	else:
+		system("clear")
+
+clear()
 print (" _____                 _ _    ____                  _                ")
 print ("| ____|_ __ ___   __ _(_) |  | __ )  ___  _ __ ___ | |__   ___ _ __  ")
 print ("|  _| | '_ ` _ \ / _` | | |  |  _ \ / _ \| '_ ` _ \| '_ \ / _ \ '__| ")
