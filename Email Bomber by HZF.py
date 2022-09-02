@@ -1,5 +1,6 @@
 import smtplib
 import time
+from sys import platform
 from os import system
 
 def clear():
@@ -17,8 +18,9 @@ print ("|  _| | '_ ` _ \ / _` | | |  |  _ \ / _ \| '_ ` _ \| '_ \ / _ \ '__| ")
 print ("| |___| | | | | | (_| | | |  | |_) | (_) | | | | | | |_) |  __/ |    ")
 print ("|_____|_| |_| |_|\__,_|_|_|  |____/ \___/|_| |_| |_|_.__/ \___|_|    ")
 print ("")
-print (" Telegram Channel: t.me/hzfnews")
-print (" Vk: vk.com/hzforum1")
+print ("YouTube Channel: youtube.com/c/HZFYT")
+print ("Telegram Channel: t.me/hzfnews")
+print ("Vk: vk.com/hzforum1")
 print ("")
 
 try:
