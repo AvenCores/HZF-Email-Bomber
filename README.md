@@ -7,7 +7,7 @@
 * Переходим в корень с бомбером
 
 # Запуск
-* Вводим в Terminal: python "Email Bomber by HZF.py"
+* Вводим в Terminal: **python "Email Bomber by HZF.py"**
 
 # Важная информация
 * Download Manager работает только на Windows
